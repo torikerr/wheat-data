@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4.3 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<identifier identifierType="DOI">NO DOI ASSIGNED</identifier>
+<titles>
+	<title>wheat-data</title>
+</titles>
+<creator>United States Department of Agriculture Economic Research Service</creator>
+<publisher>United States Department of Agriculture Economic Research Service (USDA ERS)</publisher>
+<publicationYear>2021</publicationYear>
+<subjects>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Agriculture--Economic aspects--United States</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Wheat--Economic aspects--United States</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Wheat--Prices--United States</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="Producer">
+		<contributorName>United States Department of Agriculture National Agircultural Statistics Service</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>World Agricultural Outlook Board</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>Agricultural Marketing Service</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>Farm Service Agency</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>Foreign Agircultural Service</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>United States Department of Commerce</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>United States Census Bureau</contributorName>
+	</contributor>
+	<contributor contributorType="Producer">
+		<contributorName>United States Department of Agriculture Economic Research Service</contributorName>
+	</contributor>
+</contributors>
+<date dateType="Collected">1973/2021</date>
+<language>en</language>
+<resourceTypes>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<resourceType resourceTypeGeneral="Dataset">Economic Data</resourceType>
+</resourceTypes>
+<size>1.61 MB</size>
+<descriptions>
+	<description descriptionType="Abstract">Repository created for LIS4220 Data Curation at the University of Denver. Data on wheat from 1973 to present, collected by the USDA Economic Research Service.</description>
+</descriptions>
+</resource>
