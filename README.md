@@ -6,9 +6,9 @@ Wheat Data-Recent.xls : spreadsheet including only recent data from the Wheat Ye
 
 wheats_dbyclassbyqtr_1_Jan2017.xlsx : additional data separated by wheat class 
 
-Final Report : txt 
+Final Report : text page containing additional reporting information for this assignment
 
-Metadata :
+wheat-metadata.xml : XML file containing the metadata schema and information used for this data set
 
 4220-termproj01-kerr.docx : text document containing the data and metadata profile for this data set (LIS4220 Term Project Part 1 - Data and Metadata Profile)
 
