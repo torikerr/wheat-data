@@ -8,4 +8,8 @@ wheats_dbyclassbyqtr_1_Jan2017.xlsx : additional data separated by wheat class
 
 Final Report : txt 
 
-Metadata 
+Metadata :
+
+4220-termproj01-kerr.docx : text document containing the data and metadata profile for this data set (LIS4220 Term Project Part 1 - Data and Metadata Profile)
+
+4220-termproj02-kerr.docx : text document containing the repository profile created for class (LIS4220 Term Project Part 2 - Repository Profile)
